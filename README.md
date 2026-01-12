@@ -68,7 +68,7 @@ Replace `vc16` with your OpenCV compiler version if different.
 
 Build and run the project.
 
-Happy coding! 
+Happy coding!  
 
 
 
